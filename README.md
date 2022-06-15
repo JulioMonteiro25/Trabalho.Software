@@ -7,19 +7,21 @@ Descrição: O projeto consiste no desenvolvimento de um sistema, voltado  ao ge
 
 Dependências: O programa “CookieSys” será desenvolvido em JAVA, que é uma linguagem orientada a objetos. Após a conclusão do mesmo, rodará em um LocalHost, refere-se ao computador do usuário e todo armazenamento será feito no SQL SERVER, é um sistema gerenciador e banco de dados. O grupo optou pelo modelo de microservices para o desenvolvimento do programa, pois este método permitirá que tanto o controle de estoque quanto o cadastro de clientes funcionem de formas independentes e simples dentro do sistema, este que terá sua programação feita em linguagem JAVA. 
 
-Autores: Dennis Marcondes Silva,
-         Gabriel de Oliveira Santos,
-         Gabriel Padovani da Silva,
-         Giovani Storani Jacon,
-         José Matias Lemes Filho,
-         Júlio Monteiro Assoni e
-         Otávio Augusto Fidêncio de Lima.
+Instalação: https://netbeans.apache.org/download/nb14/nb14.html - link de download do Ide Netbeans Java. Escolha a versão desejada para baixar no IOS da sua máquina.
+            https://www.jetbrains.com/datagrip/download/?source=google&medium=cpc&campaign=17355532731&term=postgresql&gclid=Cj0KCQjwhqaVBhCxARIsAHK1tiNgQTobKF0lI5srtIqGOKKL6zgD41jwr1ihFht1ExZ7yeTHLT-pRyMaAuIgEALw_wcB#section=windows - Download do Banco de dados PostgreSQL
+            
+            
+Versões utilizadas: Apache NetBeans IDE 14
+                    Postgresql - 6.8
+
+Autores: Dennis Marcondes Silva - dennis.silva@mail.usf.edu.br,
+         Gabriel de Oliveira Santos - gabriel.o.santos@mail.usf.edu.br,
+         Gabriel Padovani da Silva - gabriel.padovani.silva@mail.usf.edu.br,
+         Giovani Storani Jacon - giovani.jacon@mail.usf.edu.br,
+         José Matias Lemes Filho - jose.matias@mail.usf.deu.br,
+         Júlio Monteiro Assoni - julio.assoni@mail.usf.edu.br e
+         Otávio Augusto Fidêncio de Lima - otavio.fidencio@mail.usf.edu.br.
 
 Ajuda:  Se você deseja fornecer um feedback ou se tem perguntas ou
         preocupações, ou deseja exercer seus direitos relacionados aos seus
-        dados pessoais, entre em contato com dennis.silva@mail.usf.edu.br, gabriel.o.santos@mail.usf.edu.br, gabriel.padovani.silva@mail.usf.edu.br; giovani.jacon@mail.usf.edu.br, julio.assoni@mail.usf.edu.br ou otavio.fidencio@mail.usf.edu.br.
-
-
-        As informações de contato da Adocica Doceria são:
-
-
+        dados pessoais, entre em contato com os autores.
