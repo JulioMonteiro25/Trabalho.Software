@@ -7,11 +7,12 @@ Descrição: O projeto consiste no desenvolvimento de um sistema, voltado  ao ge
 
 Dependências: O programa “CookieSys” será desenvolvido em JAVA, que é uma linguagem orientada a objetos. Após a conclusão do mesmo, rodará em um LocalHost, refere-se ao computador do usuário e todo armazenamento será feito no SQL SERVER, é um sistema gerenciador e banco de dados. O grupo optou pelo modelo de microservices para o desenvolvimento do programa, pois este método permitirá que tanto o controle de estoque quanto o cadastro de clientes funcionem de formas independentes e simples dentro do sistema, este que terá sua programação feita em linguagem JAVA. 
 
-Instalação: https://netbeans.apache.org/download/nb14/nb14.html - link de download do Ide Netbeans Java. Escolha a versão desejada para baixar no IOS da sua máquina.
-            https://www.jetbrains.com/datagrip/download/?source=google&medium=cpc&campaign=17355532731&term=postgresql&gclid=Cj0KCQjwhqaVBhCxARIsAHK1tiNgQTobKF0lI5srtIqGOKKL6zgD41jwr1ihFht1ExZ7yeTHLT-pRyMaAuIgEALw_wcB#section=windows - Download do Banco de dados PostgreSQL
+Instalação: https://netbeans.apache.org/download/nb14/nb14.html - Link de download do Ide Netbeans Java. Escolha a versão desejada para baixar no IOS da sua máquina.
+      
+      Download do Banco de dados PostgreSQL - https://www.jetbrains.com/datagrip/download/?source=google&medium=cpc&campaign=17355532731&term=postgresql&gclid=Cj0KCQjwhqaVBhCxARIsAHK1tiNgQTobKF0lI5srtIqGOKKL6zgD41jwr1ihFht1ExZ7yeTHLT-pRyMaAuIgEALw_wcB#section=windows.
             
             
-Versões utilizadas: Apache NetBeans IDE 14
+Versões utilizadas: Apache NetBeans IDE 14/
                     Postgresql - 6.8
 
 Autores: Dennis Marcondes Silva - dennis.silva@mail.usf.edu.br,
