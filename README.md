@@ -9,7 +9,8 @@ Dependências: O programa “CookieSys” será desenvolvido em JAVA, que é uma
 
 Instalação: https://netbeans.apache.org/download/nb14/nb14.html - Link de download do Ide Netbeans Java. Escolha a versão desejada para baixar no IOS da sua máquina.
       
-      Download do Banco de dados PostgreSQL - https://www.jetbrains.com/datagrip/download/?source=google&medium=cpc&campaign=17355532731&term=postgresql&gclid=Cj0KCQjwhqaVBhCxARIsAHK1tiNgQTobKF0lI5srtIqGOKKL6zgD41jwr1ihFht1ExZ7yeTHLT-pRyMaAuIgEALw_wcB#section=windows.
+     
+   Download do Banco de dados PostgreSQL - https://www.jetbrains.com/datagrip/download/?source=google&medium=cpc&campaign=17355532731&term=postgresql&gclid=Cj0KCQjwhqaVBhCxARIsAHK1tiNgQTobKF0lI5srtIqGOKKL6zgD41jwr1ihFht1ExZ7yeTHLT-pRyMaAuIgEALw_wcB#section=windows.
             
             
 Versões utilizadas: Apache NetBeans IDE 14/
